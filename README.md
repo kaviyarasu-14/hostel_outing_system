@@ -1,1 +1,1 @@
-# hostel_outing_system
+# itech_outing_system
